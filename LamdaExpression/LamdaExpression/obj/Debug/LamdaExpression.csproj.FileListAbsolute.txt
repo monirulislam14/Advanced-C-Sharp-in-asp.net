@@ -1,0 +1,7 @@
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe.config
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.exe
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\bin\Debug\LamdaExpression.pdb
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.exe
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.pdb
+D:\ASP.Net Project\Advanced C#\LamdaExpression\LamdaExpression\obj\Debug\LamdaExpression.csprojAssemblyReference.cache

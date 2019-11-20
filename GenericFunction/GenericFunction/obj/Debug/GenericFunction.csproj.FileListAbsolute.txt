@@ -1,0 +1,7 @@
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\bin\Debug\GenericFunction.exe.config
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\bin\Debug\GenericFunction.exe
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\bin\Debug\GenericFunction.pdb
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\obj\Debug\GenericFunction.csprojAssemblyReference.cache
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\obj\Debug\GenericFunction.csproj.CoreCompileInputs.cache
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\obj\Debug\GenericFunction.exe
+D:\ASP.Net Project\Advanced C#\GenericFunction\GenericFunction\obj\Debug\GenericFunction.pdb
